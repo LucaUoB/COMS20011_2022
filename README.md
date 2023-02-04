@@ -70,7 +70,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 | ------ | ---- |
 | MM03. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[pdf]](Slides/COMS20011-MMLec03.pdf)|
 | Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
-| Problem Sheet 02 - Answers          | Friday 3rd Feb  |
+| Problem Sheet 02 - Answers          | [[pdf]](ProblemSheets/ProblemSheet-MM02-Solutions.pdf) |
 
 #### Mathematical preliminaries (Laurence)
 | Notes |
