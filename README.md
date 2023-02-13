@@ -73,9 +73,11 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
 | Problem Sheet 02 - Answers          | [[pdf]](ProblemSheets/ProblemSheet-MM02-Solutions.pdf) |
 
-#### Mathematical preliminaries (Laurence)
+#### Laurence
 | Notes |
 | ----- |
-| [Notes, question sheet and answers](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/prereqs.pdf) |
+| [Mathematical Preliminaries](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/prereqs.pdf) |
+| [Regression](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/regression.pdf) |
+
 
 #### Feature Extraction and Analysis (Majid)
