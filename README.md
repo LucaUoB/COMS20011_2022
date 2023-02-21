@@ -76,8 +76,9 @@ Important: these are not pre-requisites!  The course material should be fully se
 #### Laurence
 | Notes |
 | ----- |
-| [Mathematical Preliminaries](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/prereqs.pdf) |
-| [Regression](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/regression.pdf) |
+| [Mathematical Preliminaries (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/prereqs.pdf) |
+| [Regression (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/regression.pdf) |
+| [Overfitting (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/overfitting.ipynb) |
 
 
 #### Feature Extraction and Analysis (Majid)
