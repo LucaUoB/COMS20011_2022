@@ -73,13 +73,13 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
 | Problem Sheet 02 - Answers          | [[pdf]](ProblemSheets/ProblemSheet-MM02-Solutions.pdf) |
 
-#### Laurence
+#### Regression, maximum likelihood and classification (Laurence)
 | Notes |
 | ----- |
 | [Mathematical Preliminaries (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/prereqs.pdf) |
 | [Regression (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/regression.pdf) |
 | [Overfitting (notebook)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/overfitting.ipynb) |
 | [QA session (recording)](https://uob.sharepoint.com/teams/UnitTeams-COMS20011-2022-23-TB-2-A/Shared%20Documents/General/Recordings/View%20Only/QA-20230223_130237-Meeting%20Recording.mp4?web=1) |
-| [Maximum likelihood (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/maximum_likelihood.pdf) |
+| [Maximum likelihood and classification(pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/maximum_likelihood.pdf) |
 
 #### Feature Extraction and Analysis (Majid)
