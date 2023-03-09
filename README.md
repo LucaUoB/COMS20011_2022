@@ -79,7 +79,8 @@ Important: these are not pre-requisites!  The course material should be fully se
 | [Mathematical Preliminaries (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/prereqs.pdf) |
 | [Regression (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/regression.pdf) |
 | [Overfitting (notebook)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/overfitting.ipynb) |
-| [QA session (recording)](https://uob.sharepoint.com/teams/UnitTeams-COMS20011-2022-23-TB-2-A/Shared%20Documents/General/Recordings/View%20Only/QA-20230223_130237-Meeting%20Recording.mp4?web=1) |
+| [QA session 1 (recording)](https://uob.sharepoint.com/teams/UnitTeams-COMS20011-2022-23-TB-2-A/Shared%20Documents/General/Recordings/View%20Only/QA-20230223_130237-Meeting%20Recording.mp4?web=1) |
 | [Maximum likelihood and Classification (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/maximum_likelihood.pdf) |
+| [QA session 2 (recording)](https://uob.sharepoint.com/teams/UnitTeams-COMS20011-2022-23-TB-2-A/Shared%20Documents/General/Recordings/View%20Only/QA-20230309_130009-Meeting%20Recording.mp4?web=1) |
 
 #### Feature Extraction and Analysis (Majid)
