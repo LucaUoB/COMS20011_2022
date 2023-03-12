@@ -57,7 +57,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 
 #### Introduction (Majid)
 
-#### Week 13: 23/01/2022
+#### Week 13: 23/01/2023
 
 | Lecture |  slides |
 | ------ | ---- |
@@ -66,7 +66,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Problem Sheet 01 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM01.pdf)  |
 | Problem Sheet 01 - Answers          | [[pdf]](ProblemSheets/ProblemSheet-MM01-Solutions.pdf)  |
 
-#### Week 14: 30/01/2022
+#### Week 14: 30/01/2023
 | Lecture |  slides |
 | ------ | ---- |
 | MM03. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[pdf]](Slides/COMS20011-MMLec03.pdf)|
@@ -84,3 +84,11 @@ Important: these are not pre-requisites!  The course material should be fully se
 | [QA session 2 (recording)](https://uob.sharepoint.com/teams/UnitTeams-COMS20011-2022-23-TB-2-A/Shared%20Documents/General/Recordings/View%20Only/QA-20230309_130009-Meeting%20Recording.mp4?web=1) |
 
 #### Feature Extraction and Analysis (Majid)
+#### Week 20: 13/03/2023
+| Lecture |  slides |
+| ------ | ---- |
+| MM04. Signals & Frequencies | [[pdf]]|
+| Problem Sheet 03 (Self/Group study) | [[pdf]]  |
+| Problem Sheet 03 - Answers          | [[pdf]] |
+
+#### Week 21: 20/03/2023
