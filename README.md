@@ -88,7 +88,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Lecture |  slides |
 | ------ | ---- |
 | MM04. Signals & Frequencies | [[pdf]](Slides/COMS20011-MMLec04.pdf)|
-| Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM023.pdf)   |
-| Problem Sheet 03 - Answers          | [[pdf]] |
+| Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)   |
+
 
 #### Week 21: 20/03/2023
