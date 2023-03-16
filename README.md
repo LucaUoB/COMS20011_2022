@@ -89,6 +89,8 @@ Important: these are not pre-requisites!  The course material should be fully se
 | ------ | ---- |
 | MM04. Signals & Frequencies | [[pdf]](Slides/COMS20011-MMLec04.pdf)|
 | Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)   |
-
+| Problem Sheet 03 - Answers          | [[pdf]](ProblemSheets/ProblemSheet-MM03-Solutions.pdf) |
+| Code to play with  |  [sines.py]((ProblemSheets/sines.py))   | |
+| MM05. 1D Fourier Transform | [[pdf]](Slides/COMS20011-MMLec05.pdf)|
 
 #### Week 21: 20/03/2023
