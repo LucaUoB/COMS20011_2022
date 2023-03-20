@@ -94,3 +94,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 | MM05. 1D Fourier Transform | [[pdf]](Slides/COMS20011-MMLec05.pdf)|
 
 #### Week 21: 20/03/2023
+| Lecture |  slides |
+| ------ | ---- |
+| MM06. 2D Fourier Transform| [[pdf]](Slides/COMS20011-MMLec06.pdf)|
+| Problem Sheet 04 (Self/Group study) | [[pdf]]   |
