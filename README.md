@@ -97,4 +97,10 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Lecture |  slides |
 | ------ | ---- |
 | MM06. 2D Fourier Transform| [[pdf]](Slides/COMS20011-MMLec06.pdf)|
-| Problem Sheet 04 (Self/Group study) | [[pdf]]   |
+| MM06. 2D Fourier Transform| [[pdf]](Slides/COMS20011-MMLec07.pdf)|
+| Problem Sheet 04 (Self/Group study) | [[pdf]] (ProblemSheets/ProblemSheet-MM04.pdf)  |
+| Problem Sheet 04 - Answers          | [[pdf]] |
+
+#### Week 22: 17/04/2023
+| Lecture |  slides |
+| ------ | ---- |
